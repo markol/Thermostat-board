@@ -1,0 +1,8 @@
+*.bak
+*.swp
+*.bck
+*.kicad_pcb-bak
+*.dcm
+.pretty
+sym-lib-table
+fp-lib-table
